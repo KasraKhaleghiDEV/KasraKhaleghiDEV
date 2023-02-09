@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kasra Khaleghi
 ======================================================================================================================================
 
-I am an Iranian software engineer . I started studying computer science and Music production in 2015 in Marvdasht. In 2017, I started programming with C# and C++ languages, but due to lack of interest, I started web development . In 2022, I became a member of the CS50x Iran team and have been working with them until now. Over the years, I tried to improve web programming skills with : HTML5 and CSS and JS.
+I am an Iranian software engineer . I started studying computer science in 2015 in Marvdasht. In 2017, I started programming with C# and C++ languages, but due to lack of interest, I started web development . In 2022, I became a member of the CS50x Iran team and have been working with them until now. Over the years, I tried to improve web programming skills with : HTML5 and CSS and JS.
 
 * 🌍  I'm based in Shiraz
 * 🖥️  See my portfolio at [KasraKhaleghi.net](http://sites.google.com/view/kasrakhaleghi)
